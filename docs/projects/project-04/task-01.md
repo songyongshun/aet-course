@@ -143,6 +143,6 @@ $$\beta = \frac{1.74 - 1.14}{0.03 - 0.02} = 60$$
 
 ## 相关资源
 
-- 📖 [返回项目四首页](/projects/project-04)
+- 📖 [返回项目四首页](/projects/project-04/)
 - 📝 [习题答案 - 项目四](/appendix/exercise-answers)
 - 📋 [考试试卷](/assessment/test-papers)

@@ -149,6 +149,6 @@
 
 ## 相关资源
 
-- 📖 [返回项目三首页](/projects/project-03)
+- 📖 [返回项目三首页](/projects/project-03/)
 - 📝 [习题答案 - 项目三](/appendix/exercise-answers)
 - 📊 [教学进度表](/appendix/course-schedule)

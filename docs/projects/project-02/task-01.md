@@ -171,6 +171,6 @@ $$U_{pp} = 2\sqrt{2}U$$
 
 ## 相关资源
 
-- 📖 [返回项目二首页](/projects/project-02)
+- 📖 [返回项目二首页](/projects/project-02/)
 - 📝 [习题答案 - 项目二](/appendix/exercise-answers)
 - 📊 [教学进度表](/appendix/course-schedule)

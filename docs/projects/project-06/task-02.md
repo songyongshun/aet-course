@@ -141,7 +141,7 @@
 
 ## 相关资源
 
-- 📖 [返回项目六首页](/projects/project-06)
+- 📖 [返回项目六首页](/projects/project-06/)
 - 📊 [教学进度表](/appendix/course-schedule)
 - 📋 [考试试卷](/assessment/test-papers)
 

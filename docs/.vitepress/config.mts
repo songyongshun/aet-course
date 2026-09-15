@@ -86,7 +86,7 @@ export default defineConfig({
     },
     nav: [
       { text: '首页', link: '/' },
-      { text: '项目', link: '/projects/project-01' },
+      { text: '项目', link: '/projects/project-01/' },
       { text: '附录', link: '/appendix/course-standard' },
       { text: '评估', link: '/assessment/test-papers' },
     ],
@@ -105,11 +105,11 @@ export default defineConfig({
         {
           text: 'Module 1: 基础模块 (基础电路)',
           items: [
-            { text: '项目一 汽车直流电路的分析与测量', link: '/projects/project-01' },
+            { text: '项目一 汽车直流电路的分析与测量', link: '/projects/project-01/' },
             { text: '  └ 任务一 电路组成及基本物理量', link: '/projects/project-01/task-01' },
             { text: '  └ 任务二 元器件识别与检测', link: '/projects/project-01/task-02' },
             { text: '  └ 任务三 汽车电路的分析', link: '/projects/project-01/task-03' },
-            { text: '项目二 汽车电源交流电路的分析与测量', link: '/projects/project-02' },
+            { text: '项目二 汽车电源交流电路的分析与测量', link: '/projects/project-02/' },
             { text: '  └ 任务一 正弦交流电路分析', link: '/projects/project-02/task-01' },
             { text: '  └ 任务二 交流发电机拆解与检测', link: '/projects/project-02/task-02' },
             { text: '  └ 任务三 汽车整流电路分析', link: '/projects/project-02/task-03' },
@@ -118,10 +118,10 @@ export default defineConfig({
         {
           text: 'Module 2: 关键模块 (电磁器件与控制)',
           items: [
-            { text: '项目三 汽车常用电磁器件原理分析与检测', link: '/projects/project-03' },
+            { text: '项目三 汽车常用电磁器件原理分析与检测', link: '/projects/project-03/' },
             { text: '  └ 任务一 汽车用继电器分析与检测', link: '/projects/project-03/task-01' },
             { text: '  └ 任务二 汽车用变压器原理分析', link: '/projects/project-03/task-02' },
-            { text: '项目四 汽车执行器与控制电路的分析', link: '/projects/project-04' },
+            { text: '项目四 汽车执行器与控制电路的分析', link: '/projects/project-04/' },
             { text: '  └ 任务一 晶体管识别与检测', link: '/projects/project-04/task-01' },
             { text: '  └ 任务二 晶体管电路分析测试', link: '/projects/project-04/task-02' },
             { text: '  └ 任务三 充电系统电压监视器', link: '/projects/project-04/task-03' },
@@ -130,7 +130,7 @@ export default defineConfig({
         {
           text: 'Module 3: 数字模块 (数字电路)',
           items: [
-            { text: '项目五 数字电路及其在汽车上的应用', link: '/projects/project-05' },
+            { text: '项目五 数字电路及其在汽车上的应用', link: '/projects/project-05/' },
             { text: '  └ 任务一 组合逻辑电路应用', link: '/projects/project-05/task-01' },
             { text: '  └ 任务二 555时基电路应用', link: '/projects/project-05/task-02' },
           ],
@@ -138,7 +138,7 @@ export default defineConfig({
         {
           text: 'Module 4: 高压模块 (NEV 安全防护)',
           items: [
-            { text: '项目六 新能源汽车的高压安全防护', link: '/projects/project-06' },
+            { text: '项目六 新能源汽车的高压安全防护', link: '/projects/project-06/' },
             { text: '  └ 任务一 新能源汽车高压系统认知', link: '/projects/project-06/task-01' },
             { text: '  └ 任务二 新能源汽车高压安全防护', link: '/projects/project-06/task-02' },
           ],

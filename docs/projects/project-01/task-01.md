@@ -177,6 +177,6 @@ head:
 
 ## 相关资源
 
-- 📖 [返回项目一首页](/projects/project-01)
+- 📖 [返回项目一首页](/projects/project-01/)
 - 📝 [习题答案 - 项目一](/appendix/exercise-answers)
 - 📋 [考试试卷](/assessment/test-papers)

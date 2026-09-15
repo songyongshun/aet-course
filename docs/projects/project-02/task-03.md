@@ -135,6 +135,6 @@ P 型半导体与 N 型半导体结合形成 PN 结， 具有**单向导电性**
 
 ## 相关资源
 
-- 📖 [返回项目二首页](/projects/project-02)
+- 📖 [返回项目二首页](/projects/project-02/)
 - 📝 [习题答案 - 项目二](/appendix/exercise-answers)
 - 📋 [考试试卷](/assessment/test-papers)

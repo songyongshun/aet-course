@@ -180,6 +180,6 @@
 
 ## 相关资源
 
-- 📖 [返回项目五首页](/projects/project-05)
+- 📖 [返回项目五首页](/projects/project-05/)
 - 📝 [习题答案 - 项目五](/appendix/exercise-answers)
 - 📋 [考试试卷](/assessment/test-papers)

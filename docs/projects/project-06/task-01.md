@@ -121,7 +121,7 @@
 
 ## 相关资源
 
-- 📖 [返回项目六首页](/projects/project-06)
+- 📖 [返回项目六首页](/projects/project-06/)
 - 📊 [教学进度表](/appendix/course-schedule)
 
 ::: danger 安全警告
